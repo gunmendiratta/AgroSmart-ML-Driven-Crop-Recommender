@@ -39,15 +39,6 @@ AgroSmart uses machine learning to analyze local soil, climate, and crop data, p
  - Actionable Insights: Delivers tailored recommendations and predictions to optimize farming practices and improve productivity.
 
 
-## Contributors
-
-Thanks to the following people for their contributions:
-
-- [@Diya Thakkar](https://github.com/DiyaT8)
-- [@Rahul Zore](https://github.com/Rahul-Zore2005)
-- [@Soham Shigvan](https://github.com/Soham-Edith)
-
-
 ## Conclusion 
 The AgroSmart ML Crop Recommender combines real-time weather data, soil analysis, and market trends to provide precise, data-driven solutions for crop selection, yield prediction, and resource management. It empowers farmers to make informed decisions, enhancing productivity, sustainability, and resilience in agriculture.
 
